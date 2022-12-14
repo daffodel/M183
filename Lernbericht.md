@@ -12,7 +12,7 @@ Ich habe gelernt, wie man Sonderzeichen ins HTML einfügen kann, sodass sie nich
 ## Beschreibung
 
 Manchmal wenn man Tabs, Grösser- und Kleinerzeichen in einer HTML-Datei verwendet, wird es als HTML-Code aufgenommen, obwohl man es eigentlich auf der Webseite darstellen möchte. 
-Um dies zu umgehen, benutzt man "Escaping". Dieses Escaping ist eine gegebene Zeichenstellung, die diese Sonderzeichen ersetzt, sodass sie als Webseiten-Inhalt erkannt werden. Zum Beispiel ist "<" auch "&amp;lt;" und ">" ist "&amp;gt;".
+Um dies zu umgehen, benutzt man "Escaping". Dieses Escaping ist eine gegebene Zeichenstellung, die diese Sonderzeichen ersetzt, sodass sie als Webseiten-Inhalt erkannt werden. Zum Beispiel ist "<" auch "&amp;lt;" und ">" ist "&amp;gt;". (Hier musste ich auch Escaping benutzen um die &-Zeichen darzustellen, sonst werden sie direkt als < oder > angezeigt)
 Diese Ersätze kann man auch überall im Internet nachschauen, wenn man diese nicht im Kopf behalten kann.
 
     <h1>So habe ich ein Video in HTML eingefügt:</h1>
